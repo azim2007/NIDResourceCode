@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RubicsCubeSimulator/1.0.0": {
+        "dependencies": {
+          "RubiksCube": "1.0.0.0"
+        },
+        "runtime": {
+          "RubicsCubeSimulator.dll": {}
+        }
+      },
+      "RubiksCube/1.0.0.0": {
+        "runtime": {
+          "RubiksCube.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RubicsCubeSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RubiksCube/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
